@@ -1,0 +1,28 @@
+{
+  "name": "genai_with_js",
+  "version": "1.0.0",
+  "description": "Learning GenAI with JS",
+  "main": "ajent.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "genai",
+    "ai",
+    "JS",
+    "JavaScript",
+    "AI",
+    "GenereativeAI",
+    "OpenAI",
+    "Gemini",
+    "Agents"
+  ],
+  "author": "Kanishk Chandna",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.14.0",
+    "dotenv": "^17.2.1",
+    "openai": "^5.12.2"
+  }
+}
